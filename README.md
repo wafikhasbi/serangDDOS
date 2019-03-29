@@ -1,4 +1,6 @@
 # serangDDOS
+$ pkg update && pkg upgrade
+$ pkg install python && pkg install python2
 $ git clone http://github.com/wafikhasbi/serangDDOS
 $ ls
 $ cd serangDDOS
